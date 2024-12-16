@@ -1,42 +1,47 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAHEAD94&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+
+## 👨‍💻 About Me  
+
+ - Specializing in real-time communication, DDS middleware, and embedded systems.  
+ - With an interest in advanced programming skills, mobile development, computer vision, and indoor localization.  
+
+---
+
 ## 🛠️ Technical Skills  
 
 - **Languages**: C/C++  
-- **Networking**: TCP and UDP Communication, Socket Programming  
-- **Middleware**: Pub/Sub-based DDS (RTI Connext DDS)
-- **Embedded Systems**: Real-Time Communication, Development for Multi-SBC environments  
-- **Operating Systems**: MacOS, Windows, Linux
-- **Software Testing**: Unit Testing, Integration Testing, Static Analysis  
-- **Documentation**: SRS, SDD  
+- **Networking**: TCP/UDP Communication, Socket Programming  
+- **Middleware**: Pub/Sub-based DDS (RTI Connext DDS)  
+- **Embedded Systems**: Real-Time Communication, Multi-SBC Development  
+- **Software Reliability**: Unit Testing, Integration Testing, and Static Analysis  
+
+### 📚 Additional Skills & Interests  
+
+- **Mobile Development**: Swift iOS, Android Studio  
+- **Databases**: Firebase, PostgreSQL  
+- **Machine Learning**: PyTorch, TensorFlow  
+- **Computer Vision**: OpenCV, YOLOv5  
+- **Indoor Localization**: Indoor Positioning System (IPS)  
 
 ---
 
 ## 💼 Software Engineer | LIG Nex1 (Feb 6, 2023 – Present)  
 
-- **Communication Module Development**  
-  Developed TCP and UDP-based message transmission and parsing modules for real-time communication between devices.  
-  Designed and implemented processes to monitor device states and send control commands.  
-
-- **Middleware-Based Messaging**  
-  Utilized Pub/Sub-based DDS middleware for data exchange between Computer Software Components (CSCs).  
-  Defined message structures using IDL (Interface Definition Language) and optimized QoS settings.  
-
-- **Software Testing and Reliability**  
-  Conducted Unit Testing and Integration Testing to verify CSC functionality and system stability.  
-  Performed static analysis to enhance software reliability and applied improvements.  
-
-- **Linux-Based Development**  
-  Developed and optimized software for multi-SBC environments running Linux OS.  
-
-- **Technical Documentation**  
-  Authored and maintained Software Requirements Specifications (SRS) and Software Design Descriptions (SDD).  
+- **Communication Modules**: Developed TCP/UDP messaging and control modules for real-time device communication.  
+- **DDS Middleware**: Implemented Pub/Sub messaging using IDL and optimized QoS for efficient data exchange.  
+- **Testing & Reliability**: Conducted Unit/Integration Testing and static analysis to ensure system stability.  
+- **Linux Development**: Built and optimized software for multi-SBC environments.  
+- **Documentation**: Wrote and maintained SRS and SDD.  
 
 ---
 
 ## 🎓 Education  
 
 - **Ajou University**  
-  Master’s in Computer Science (2023)  
-  Bachelor's in Architecture Engineering, Software Engineering (Double Major, 2021)  
+  - Master’s in Computer Science (2023)  
+  - Bachelor's in Architecture Engineering & Software Engineering (Double Major, 2021)
 
 <!--
 **AHEAD94/AHEAD94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
