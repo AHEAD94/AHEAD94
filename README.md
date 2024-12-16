@@ -14,7 +14,7 @@
 - **Languages**: C/C++  
 - **Networking**: TCP/UDP Communication, Socket Programming  
 - **Middleware**: Pub/Sub-based DDS (RTI Connext DDS)  
-- **Embedded Systems**: Real-Time Communication, Multi-SBC Development  
+- **Embedded Systems**: Real-Time Communication, Development for Multi-SBC Environments  
 - **Software Reliability**: Unit Testing, Integration Testing, and Static Analysis  
 
 ### 📚 Additional Skills & Interests  
@@ -40,8 +40,8 @@
 ## 🎓 Education  
 
 - **Ajou University**  
-  - Master’s in Computer Science (2023)  
-  - Bachelor's in Architecture Engineering & Software Engineering (Double Major, 2021)
+  Master’s in Computer Science (2023)  
+  Bachelor's in Architecture Engineering & Software Engineering (Double Major, 2021)
 
 <!--
 **AHEAD94/AHEAD94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
