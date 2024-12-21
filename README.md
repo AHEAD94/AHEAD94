@@ -15,7 +15,7 @@
 - **Networking**: TCP/UDP Communication, Socket Programming  
 - **Middleware**: Pub/Sub-based DDS (RTI Connext DDS)  
 - **Embedded Systems**: Real-Time Communication, Development for Multi-SBC Environments  
-- **Software Reliability**: Unit Testing, Integration Testing, and Static Analysis  
+- **Software Reliability**: Unit Testing, Integration Testing, and Static Analysis
 
 ### 📚 Additional Skills & Interests  
 
@@ -24,6 +24,9 @@
 - **Machine Learning**: PyTorch, TensorFlow  
 - **Computer Vision**: OpenCV, YOLOv5  
 - **Indoor Localization**: Indoor Positioning System (IPS)  
+
+
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHEAD94&layout=compact&langs_count=4&theme=dark)  
 
 ---
 
