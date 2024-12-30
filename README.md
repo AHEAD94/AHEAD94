@@ -23,7 +23,7 @@
 - **Computer Vision**: OpenCV, YOLOv5  
 - **Indoor Localization**: Indoor Positioning System (IPS)  
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHEAD94&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)  
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHEAD94&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&theme=dark)  
 
 ---
 
