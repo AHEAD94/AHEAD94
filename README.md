@@ -10,14 +10,14 @@
 ## 🛠️ Technical Skills  
 
 - **Languages**: C/C++  
-- **Networking**: TCP/UDP Communication, Socket Programming  
+- **Networking**: TCP/UDP Communication
 - **Middleware**: Pub/Sub-based DDS (RTI Connext DDS)  
 - **Embedded Systems**: Real-Time Communication, Development for Multi-SBC Environments  
 - **Software Reliability**: Unit Testing, Integration Testing, and Static Analysis
 
 ### 📚 Additional Skills & Interests  
 
-- **Mobile Development**: Swift iOS, Android Studio  
+- **Mobile Development**: Swift iOS, JAVA Android Studio  
 - **Databases**: Firebase, PostgreSQL  
 - **Machine Learning**: PyTorch, TensorFlow  
 - **Computer Vision**: OpenCV, YOLOv5  
