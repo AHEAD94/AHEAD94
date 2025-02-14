@@ -17,7 +17,7 @@
 
 ### 📚 Additional Skills & Interests  
 
-- **Mobile Development**: Swift iOS, JAVA Android Studio  
+- **Mobile Development**: Swift iOS, Java Android Studio  
 - **Databases**: Firebase, PostgreSQL  
 - **Machine Learning**: PyTorch, TensorFlow  
 - **Computer Vision**: OpenCV, YOLOv5  
