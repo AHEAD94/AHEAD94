@@ -41,6 +41,8 @@
 
 - **Ajou University**  
   Master’s in Computer Science (2023)  
+  Thesis: *Data Structure Design from Electronic Architectural Drawings and Its Application for Vision-based Indoor Localization*
+  
   Bachelor's in Architectural Engineering & Software Engineering (Double Major, 2021)
 
 <!--
