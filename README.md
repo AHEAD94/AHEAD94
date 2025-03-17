@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me  
 
- - Specializing in real-time communication, DDS middleware, and embedded systems.  
- - With an interest in advanced programming skills, mobile development, computer vision, and indoor localization.  
+ - Specialized in developing distributed systems with real-time communication and DDS (Pub/Sub middleware).  
+ - Interested in advanced programming skills, mobile development, computer vision, and indoor localization.  
 
 ---
 
@@ -12,7 +12,7 @@
 - **Languages**: C/C++  
 - **Networking**: TCP/UDP Communication
 - **Middleware**: Pub/Sub-based DDS (RTI Connext DDS)  
-- **Embedded Systems**: Real-Time Communication, Development for Multi-SBC Environments  
+- **Distributed Systems**: Development for Multi-SBC Environments and ICD-based Inter-System Communication
 - **Software Reliability**: Unit Testing, Integration Testing, and Static Analysis
 
 ### 📚 Additional Skills & Interests  
@@ -31,9 +31,9 @@
 
 - **Communication Modules**: Developed TCP/UDP messaging and control modules for real-time device communication.  
 - **DDS Middleware**: Implemented Pub/Sub messaging using IDL and optimized QoS for efficient data exchange.  
-- **Testing & Reliability**: Conducted Unit/Integration Testing and static analysis to ensure system stability.  
+- **Testing & Reliability**: Conducted unit/integration testing and static analysis to ensure system stability.  
 - **Linux Development**: Built and optimized software for multi-SBC environments.  
-- **Documentation**: Wrote and maintained SRS and SDD.  
+- **Documentation**: Wrote and maintained SRS, SDD, and other technical documentation.  
 
 ---
 
